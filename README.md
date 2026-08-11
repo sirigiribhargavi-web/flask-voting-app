@@ -103,6 +103,11 @@ Added voting users, /results, /reset
 
 ### 3. Git History
 
+To verify the evolution from Version 1 → Version 2, the following command was used:
+
+```bash
+git log --oneline --graph --decorate main dev
+```
 Screenshots of commit and merge history
 
 (Screenshots are stored in the Screenshots/ folder)
@@ -111,3 +116,5 @@ Screenshots of commit and merge history
 ![Vote Recorded](Screenshots/BhargaviVote.png)
 ![Results](Screenshots/voteResults.png)
 ![Reset](Screenshots/Votereset.png)
+![Postman Testing](Screenshots/Results_Postman.png)
+![GIT Commit History](Screenshots/CommitHistory.png)
