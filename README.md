@@ -108,13 +108,26 @@ To verify the evolution from Version 1 → Version 2, the following command was 
 ```bash
 git log --oneline --graph --decorate main dev
 ```
+Screenshots are stored in the Screenshots/ folder
 Screenshots of commit and merge history
 
-(Screenshots are stored in the Screenshots/ folder)
+## Welcome Screenshot
 ![Welcome Screenshot](Screenshots/WelcomeScreenshot.png)
+
+## Health Status
 ![Health Status](Screenshots/Healthstatus.png)
+
+## Vote Recorded
 ![Vote Recorded](Screenshots/BhargaviVote.png)
-![Results](Screenshots/voteResults.png)
+
+## Vote Results
+![Vote Results](Screenshots/voteResults.png)
+
+## Reset
 ![Reset](Screenshots/Votereset.png)
+
+## Postman Testing
 ![Postman Testing](Screenshots/Results_Postman.png)
+
+## GIT Commit History
 ![GIT Commit History](Screenshots/CommitHistory.png)
