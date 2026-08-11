@@ -111,23 +111,23 @@ git log --oneline --graph --decorate main dev
 Screenshots are stored in the Screenshots/ folder
 Screenshots of commit and merge history
 
-# Welcome Screenshot
+#### Welcome Screenshot
 ![Welcome Screenshot](Screenshots/WelcomeScreenshot.png)
 
-# Health Status
+##### Health Status
 ![Health Status](Screenshots/Healthstatus.png)
 
-# Vote Recorded
+##### Vote Recorded
 ![Vote Recorded](Screenshots/BhargaviVote.png)
 
-# Vote Results
+##### Vote Results
 ![Vote Results](Screenshots/voteResults.png)
 
-# Reset
+##### Reset
 ![Reset](Screenshots/Votereset.png)
 
-# Postman Testing
+##### Postman Testing
 ![Postman Testing](Screenshots/Results_Postman.png)
 
-# GIT Commit History
+##### GIT Commit History
 ![GIT Commit History](Screenshots/CommitHistory.png)
