@@ -90,32 +90,19 @@ Version	Features
 Version 1	Flask application with / and /health endpoints
 Version 2	Added /vote/<name>, /results, and /reset
 
-
 ## Screenshots
 
 ### 1. Application Running
-
 Welcome and /health
-
-### 2. Voting App
-
-Added voting users, /results, /reset
-
-### 3. Git History
-
-To verify the evolution from Version 1 → Version 2, the following command was used:
-
-```bash
-git log --oneline --graph --decorate main dev
-```
-Screenshots are stored in the Screenshots/ folder
-Screenshots of commit and merge history
 
 * #### Welcome Screenshot
 ![Welcome Screenshot](Screenshots/WelcomeScreenshot.png)
 
 * #### Health Status
 ![Health Status](Screenshots/Healthstatus.png)
+
+### 2. Voting App
+Added voting users, /results, /reset
 
 * #### Vote Recorded
 ![Vote Recorded](Screenshots/BhargaviVote.png)
@@ -128,6 +115,31 @@ Screenshots of commit and merge history
 
 * #### Postman Testing
 ![Postman Testing](Screenshots/Results_Postman.png)
+![Postman Testing](Screenshots/VoteCasting_Postman.png)
+
+### 3. Git History
+To verify the evolution from Version 1 → Version 2, the following command was used:
+
+```bash
+git log --oneline --graph --decorate main dev
+```
+Screenshots are stored in the Screenshots/ folder
+Screenshots of commit and merge history
+
+### Version 1
+- Commit: 70f368d
+- Features: Initial Flask app with `/` and `/health` endpoints.
+
+![Version 1 Commit Screenshot](Screenshots/git_version1.png)
+
+### Version 2
+- Commits: fa0cfa6, 5da5e87, c0bf78c, 5ff1169
+- Features: Added `/vote/<name>`, `/results`, `/reset` endpoints and updated README.
+
+![Version 2 Commit Screenshot](Screenshots/git_version2.png)
+
+* #### GIT Repositories
+![GIT Repos](Screenshots/GitRepoBranches.png)
 
 * #### GIT Commit History
 ![GIT Commit History](Screenshots/CommitHistory.png)
